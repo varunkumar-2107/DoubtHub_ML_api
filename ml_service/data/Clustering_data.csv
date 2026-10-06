@@ -1,0 +1,501 @@
+,query,label,topic
+6473,whynbspnbspis dns spoofing important,Cyber Security,DNS spoofing
+2971,how to start learning ethical hacking from scratch,Cyber Security,handwritten
+3931,what nbsp is memory leaks in nodejs ,Backend,memory leaks in Node.js
+4768,difference nbsp between hyperparameter tuning and related concepts,ML/AI,hyperparameter tuning
+2088,     precision    and    recall    step    by    step   guide,ML/AI,precision and recall
+3680,    give   me   a   roadmap   to   master   secure   coding   practices   see    ,Cyber Security,secure coding practices
+4780,give  me a roadmap to master tokenization in nlp,ML/AI,tokenization in NLP
+5254,linear regression tutorial for beginners   ,ML/AI,linear regression
+1134, what is python dataclasses  source ,Programming Language,Python dataclasses
+2987,bro	what is python gil,Programming Language,Python GIL
+333,ruby on rails routing tutorial for beginners,Backend,Ruby on Rails routing
+179,explain kotlin data  classes with code,Programming Language,Kotlin data classes
+3176,backend logging with elk interview questions,Backend,backend logging with ELK
+4673,please    give  me  a     roadmap     to  master     resnet     for     beginners,ML/AI,ResNet
+4003, urgent how to learn kadanes algorithm   source ,DSA,Kadane's algorithm
+3337,notes on c++ smart pointers,Programming Language,C++ smart pointers
+6562,real world use cases of burp suite ,Cyber Security,Burp Suite
+5399,nbsphow does format string vulnerabilities work,Cyber Security,format string vulnerabilities
+687,need help why is request validation important ,Backend,request validation
+5371,givenbspnbspme a roadmap to master iso 27001,Cyber Security,ISO 27001
+6365,   need   help   chrome   extension   popup   ui   example    ,Frontend,Chrome extension popup UI
+4747,     hey    i  am    confused   about    iam    least   privilege  asap,Cyber Security,IAM least privilege
+966,how to scale erroor handling middleware in production ,Backend,error handling middleware
+579, hello notes on kali linux tools  source ,Cyber Security,Kali Linux tools
+6187,can someone explain edit distance with an example in 2026  ,DSA,edit distance
+2383,hello	can someone explain swift optionals  with an example,Programming Language,Swift optionals
+23,train test split explained in simple words ,ML/AI,train test split
+5656,help me understand c malloc and free      ,Programming Language,C malloc and free
+4997,hsts step by step guide in  short  source ,Cyber Security,HSTS
+1728,    what    is    lazy   loading  images,Frontend,lazy loading images
+2103,best practices for css grid layout,Frontend,CSS grid layout
+6216, nodejs  event loop example see ,Backend,Node.js event loop
+5835,hello help me understand edit distance for beginners  ,DSA,edit distance
+4813,give	me a roadmap to master random forest,ML/AI,random forest
+6506,check  how to write java string immutability correctly    ,Programming Language,Java String immutability
+2392, how to scale sql vs nosql for a backend in production  ,Backend,SQL vs NoSQL for a backend
+6540,difference between c linq and related concepts in hindi,Programming Language,C# LINQ
+2323,     real  world  use     cases  of   floyd  warshall     ,DSA,Floyd Warshall
+6334,   explain   context   window   and   tokens   in   short      source       ,ML/AI,context window and tokens
+4843,real world use cases of permutations of a string,DSA,permutations of a string
+2442,common mistakes with gpt models  ,ML/AI,GPT models
+6105,why is sorting stability important  ,DSA,sorting stability
+5623,difference between css modules and related concepts ,Frontend,CSS Modules
+44,help me understand reinforcement learning asap ,ML/AI,reinforcement learning
+1304,cannbspnbspsomeone explain backtracking sudoku solver with an example,DSA,backtracking sudoku solver
+5799,pls common mistakes with disjoint set union,DSA,disjoint set union
+5186,precision and recall explained in simple words  source ,ML/AI,precision and recall
+1111,how  does swagger  documentation work thanks     ,Backend,Swagger documentation
+6410,      explain   ransomware ,Cyber Security,ransomware
+897,time complexity of euclidean gcd ,DSA,Euclidean GCD
+6373,       notes   on   quick   sort   please      ,DSA,quick sort
+5191,pllease  dry run of subarray sum equals k asap    ,DSA,subarray sum equals k
+4840,please  what is binary lifting,DSA,binary lifting
+5641, how does open graph tags work ,Frontend,Open Graph tags
+3648,     notesnbspon early stopping ,ML/AI,early stopping
+2853,urgent spiral matrix traversal tutorial for beginners in short  source ,DSA,spiral matrix traversal
+1089,how     does  container  with    most   water     work,DSA,container with most water
+4091, nbsp qlearning example,ML/AI,Q-learning
+5682,how to implement css grid layout in my  website ,Frontend,CSS grid layout
+1570,why is buffer overflow important    ,Cyber Security,buffer overflow
+2418, dequeue interview questions ,DSA,dequeue
+5853,check  java inner classes explained in simple words ,Programming Language,Java inner classes
+1083,  sql   injection   real   attack   scenario         ,Cyber Security,SQL injection
+4613,hello   connection    pooling    not   working     on   the     server,Backend,connection pooling
+2900,nbsp jquery selectors example ,Frontend,jQuery selectors
+3884,  what is sveelte stores asap ,Frontend,Svelte stores
+3351,how to learn react query ,Frontend,React Query
+4704,  real world use cases of dart futures and streams for interview prep ,Programming Language,Dart futures and streams
+5595,    text   classsification   explained   in   simple   words   asap  ,ML/AI,text classification
+936,how to scale api throttling in production for interview prep  ,Backend,API throttling
+6590,topic modeling lda explained in simple words for beginners,ML/AI,topic modeling LDA
+1829,hey give me a roadmap to master error boundaries  ,Frontend,error boundaries
+808,can someone explain async await in server code with an example  ,Backend,async await in server code
+3083,implement a star search in python ,DSA,A star search
+2707,explain fastapi dependency ijection plz help  ,Backend,FastAPI dependency injection
+2439,check  i am confused about burp suite for interview prep,Cyber Security,Burp Suite
+146,explain circuit breaker pattern ,Backend,circuit breaker pattern
+6310, elliptic curve cryptography interview questions,Cyber Security,elliptic curve cryptography
+5188, can someone explain lstm with an example for beginners,ML/AI,LSTM
+3823,notesnbsp on backtracking sudoku solver ,DSA,backtracking sudoku solver
+5546,what is phishing attacks ,Cyber Security,phishing attacks
+1087,check  sir why is recursion important      ,DSA,recursion
+4098,«urgent can someone explain cumulative layout shift with an example»,Frontend,cumulative layout shift
+5358, notes on rust borrow checker,Programming Language,Rust borrow checker
+3456,why is a  star search important,DSA,A star search
+4575,common mistakes with go channels   source ,Programming Language,Go channels
+1979,how to implement full text search in a backend service,Backend,full text search
+5736,check  mysql slow queries tutorial for beginners,Backend,MySQL slow queries
+2509,aspnet core web api not working on the server   ,Backend,ASP.NET Core web API
+3353,  iam least privilege example,Cyber Security,IAM least privilege
+3941,pattern	matching in languages explained in simple words  ,Programming Language,pattern matching in languages
+6420,please   how    does     intersection     observer     api     work,Frontend,Intersection Observer API
+2678,      how to learn gans,ML/AI,GANs
+5244,how  does malware analysis work  ,Cyber Security,malware analysis
+5508,check  give me a roadmap to master hallucination in llms,ML/AI,hallucination in LLMs
+2138,best   practices    for  multithreading   in       languages     for    my     college     project,Programming Language,multithreading in languages
+6522,difference  between  sql     joins     and  related     concepts,Backend,SQL joins
+1914,check  quick question learning rate scheduling step by step guide,ML/AI,learning rate scheduling
+6362,can someone explain container with most water with an example,DSA,container with most water
+4100,real world use cases of skeleton loading screen in 2026,Frontend,skeleton loading screen
+6308,give me a roadmap to master lru cache design,DSA,LRU cache design
+3546,  «loss functions cheat sheet» see ,ML/AI,loss functions
+1564,  network segmentation real attack scenario in detail   ,Cyber Security,network segmentation
+2984,explain    nginx   configuration       ,Backend,nginx configuration
+1699,quick question i am confused about sequelize models,Backend,Sequelize models
+2627,  how  does   sequelize     models   work,Backend,Sequelize models
+139,react native styling explained in simple words,Frontend,React Native styling
+1421,explain laravel migrations in hindi,Backend,Laravel migrations
+6203,bro cors configuration on the server example   ,Backend,CORS configuration on the server
+3517,can someone explain relfow and repaint with an example,Frontend,reflow and repaint
+1053,explain  nbsp   wpa2    wireless  attacks  for  interview     prep,Cyber Security,WPA2 wireless attacks
+2964,why is security operations center important,Cyber Security,security operations center
+967,debug javascript bundle size issue in chrome ,Frontend,JavaScript bundle size
+5148,differencenbspbetween celery background jobs and related concepts  see ,Backend,Celery background jobs
+818, urgent time complxity of sorting stability      ,DSA,sorting stability
+203,react	 context api not working properly thanks,Frontend,React context API
+1977,noes on virtual dom       ,Frontend,virtual DOM
+5232,leetcode problems on kmp string matching,DSA,KMP string matching
+6584,can someone explain tsne with an example ,ML/AI,t-SNE
+865,    notes  on syntax differences between python and java,Programming Language,syntax differences between Python and Java
+1238,  notes   on   astro    islands,Frontend,Astro islands
+3509,implement moodular exponentiation in java,DSA,modular exponentiation
+3243,   rust  borrow     checker     tutorial    for  beginners     ,Programming Language,Rust borrow checker
+2894,check   please can someone explain kmp string matching with an example ,DSA,KMP string matching
+5104, which library should i use for retrieval augmented generation ,ML/AI,retrieval augmented generation
+5519,check   how to implement bulk insert in a backend service,Backend,bulk insert
+4363, need   help      what   is   graphql   resolvers   for   beginners    ,Backend,GraphQL resolvers
+2830, need help how to learn rust borrow  checker,Programming Language,Rust borrow checker
+2772, please  how does prompt tuning work see ,ML/AI,prompt tuning
+3829,i am confused aout port  scanning see ,Cyber Security,port scanning
+3805,python dataclasses step by step guide     ,Programming Language,Python dataclasses
+2178, lightgbm  cheat sheet ,ML/AI,LightGBM
+131,   please learning rate scheduling cheat sheet,ML/AI,learning rate scheduling
+816,how to scale secrets management in production      ,Backend,secrets management
+4714,     vanishing       gradient     problem  tutorial   for       beginners,ML/AI,vanishing gradient problem
+401,help me understand media queries with code see ,Frontend,media queries
+2591,  urgent skeleton lading screen not working properly ,Frontend,skeleton loading screen
+3935,    hello   automl   gives   poor   accuracy   how   to   improve      ,ML/AI,AutoML
+1256,	implement sliding window technique in c++,DSA,sliding window technique
+3689,how     does    typescript       type  guards   work,Programming Language,TypeScript type guards
+878,schema design for ecommerce step by step guide see ,Backend,schema design for e-commerce
+661, difference between wireshark packet analysis and related concepts ,Cyber Security,Wireshark packet analysis
+1943,best practices for convoluional neural networks   ,ML/AI,convolutional neural networks
+249,how does haskell lazy evaluation work  ,Programming Language,Haskell lazy evaluation
+5446,     need help why is python dataclasses important,Programming Language,Python dataclasses
+4750,notes	on code splitting,Frontend,code splitting
+171,i am confused about yolo object detection in 2026,ML/AI,YOLO object detection
+441,    leaked   secrets   in   git   interview   questions   plz   help      ,Cyber Security,leaked secrets in git
+4460,urgent         one    hot    encoding     explained     in  simple  words,ML/AI,one hot encoding
+3903, median of a data stream step by step guide in detail,DSA,median of a data stream
+3117, implement imbalanced datasets with smote from scratch in python for my college project ,ML/AI,imbalanced datasets with SMOTE
+5722, django orm cheat sheet,Backend,Django ORM
+1742, give me a roadmap to master c++ smart pointers   ,Programming Language,C++ smart pointers
+5960, refresh tokens not working on the server plz help ,Backend,refresh tokens
+5543,quick question space and time analysis of prims algorithm asap,DSA,Prim's algorithm
+1297,hey dom event bubbling step by step guide  source ,Frontend,DOM event bubbling
+5081,how to scale rabbitmq message queues in production    ,Backend,RabbitMQ message queues
+5754,hello  explain    circular  queue,DSA,circular queue
+3552,   inheritance vs composition explained in simple words for interview prep  ,Programming Language,inheritance vs composition
+2767,give me a roadmap to master linnked list reversal,DSA,linked list reversal
+5703,urgent     real    world    use   cases  of  security    log     analysis,Cyber Security,security log analysis
+2786,nbspnbsp urgent go error handling cheat sheet,Programming Language,Go error handling
+1371,     sqlmap    interview   questions     ,Cyber Security,sqlmap
+839,how does snort work asap,Cyber Security,Snort
+151, session management explained in simple words   ,Backend,session management
+2280,common mistakes with mlflow experiment tracking   ,ML/AI,MLflow experiment tracking
+4296,give nbsp me a roadmap to master red team vs  blue team,Cyber Security,red team vs blue team
+202, why is morris traversal important ,DSA,Morris traversal
+2538,implement hash map implementation in python  source ,DSA,hash map implementation
+4307,leetcode problems on binary search for my college project,DSA,binary search
+208, sliding window technique interview questions  source ,DSA,sliding window technique
+4528,aes encryption step by step guide  ,Cyber Security,AES encryption
+173,real     nbsp     world    use  cases    of  typescript  type  guards    thanks,Programming Language,TypeScript type guards
+3274,help me understand html  tables styling see ,Frontend,HTML tables styling
+6564,tls    handshake     in     ethical   hacking    plz   help   ,Cyber Security,TLS handshake
+3996,please  css grid layout step by step guide ,Frontend,CSS grid layout
+5319,which library should i use for compuetr vision ,ML/AI,computer vision
+4417,what is react key prop warning,Frontend,React key prop warning
+4696,give     me  a   roadmap     to    master   immutability     thanks     ,Programming Language,immutability
+4382,can  someone explain gdpr compliance with an example see ,Cyber Security,GDPR compliance
+224,i am confused about variational autoencoders,ML/AI,variational autoencoders
+4717,rust	borrow checker code example,Programming Language,Rust borrow checker
+4553,early	stopping interview questions,ML/AI,early stopping
+6459,why is password managers important  ,Cyber Security,password managers
+6444,best	practices for skeleton loading screen ,Frontend,skeleton loading screen
+2182,help   me    understand  broken     authentication    ,Cyber Security,broken authentication
+4499,please     html  canvas    not    working    properly,Frontend,HTML canvas
+2663, bert fine tuning cheat sheet ,ML/AI,BERT fine tuning
+3712,     check   python iterators interview questions and answers,Programming Language,Python iterators
+5100,hello	python generators explained in simple words ,Programming Language,Python generators
+5763,common mitakes with go interfaces     ,Programming Language,Go interfaces
+5532, why is kali linux tools important   source ,Cyber Security,Kali Linux tools
+3572, sql joins not working on the server      ,Backend,SQL joins
+6094,need   help  euclidean     gcd     tutorial    for  beginners  see     ,DSA,Euclidean GCD
+703,explain    memory    forensics,Cyber Security,memory forensics
+4977,    check  i am confused about vector databases and embeddings in detail,ML/AI,vector databases and embeddings
+3717,urgent difference between c++ multiple inheritance and related concepts ,Programming Language,C++ multiple inheritance
+4590, help me understand python slicing,Programming Language,Python slicing
+4037,i am confused abotu idempotency keys  source ,Backend,idempotency keys
+6004,which library should i use for svm kernels,ML/AI,SVM kernels
+5947,hownbspto     write   go   defer     statement    correctly,Programming Language,Go defer statement
+4066,  real world use cases of c async await,Programming Language,C# async await
+5310,notes	on session management,Backend,session management
+1844,  difference    between    event  delegation  in   javascript     and     related     concepts,Frontend,event delegation in JavaScript
+5271, best practices for exception handling syntax in short,Programming Language,exception handling syntax
+2149,bro implement llm function calling from scratch in python,ML/AI,LLM function calling
+5112,     common     mistakes   with   responsive  navbar  in  2026,Frontend,responsive navbar
+3202,give me a roadmap to master css modules in hindi ,Frontend,CSS Modules
+4595,  quick question common errors with ruby symbols thanks ,Programming Language,Ruby symbols
+3200,quicknbspquestion c++ lambda expressions interview questions in hindi  ,Programming Language,C++ lambda expressions
+5566,check  notes on viewport units,Frontend,viewport units
+5600,how  to  apply   grid     search  on      my   dataset,ML/AI,grid search
+4356, database   migrations   example  ,Backend,database migrations
+1516,check  my model accuracy is 99 percent on train but 60 on test,ML/AI,handwritten
+4730, what   does   static   keyword   mean   in   java  ,Programming Language,handwritten
+548,interval scheduling  greedy cheat sheet,DSA,interval scheduling greedy
+2076,check if a binary tree is a valid bst,DSA,handwritten
+4690, bro can someone explain redux toolkit with an example ,Frontend,Redux Toolkit
+2277,mongodb	aggregation pipeline interview questions,Backend,MongoDB aggregation pipeline
+4281,inheritance vs composition cheat sheet,Programming Language,inheritance vs composition
+809, common mistakes with cybre hygiene,Cyber Security,cyber hygiene
+655,notes	on  rlhf,ML/AI,RLHF
+1872, leetcode   problems   on   dijkstras   algorithm    ,DSA,Dijkstra's algorithm
+11,how does batch size and epochs work,ML/AI,batch size and epochs
+1697,cycle detection in a graph interview questions asap ,DSA,cycle detection in a graph
+5433,nbspsir  heap exploitation real attack scenario,Cyber Security,heap exploitation
+2450,hellonbsp  best practices for train test split,ML/AI,train test split
+5786,bro autoencoders tutorial for beginners,ML/AI,autoencoders
+5769,   best   practices   for   html   forms   and   input   types ,Frontend,HTML forms and input types
+280,	insertion  sort tutorial for beginners  ,DSA,insertion sort
+5484,check  policy gradient methods tutorial for beginners    ,ML/AI,policy gradient methods
+2796,explain batch normalization,ML/AI,batch normalization
+4675,	what is rainbow tables ,Cyber Security,rainbow tables
+2252,  implement speech recognition from scratch in python in 2026  source ,ML/AI,speech recognition
+439, openapi   specification   example  ,Backend,OpenAPI specification
+358,how	to implement react reconciliation in my website,Frontend,React reconciliation
+456,plsnbspbest practices for websockets on the  server,Backend,WebSockets on the server
+1403,real  world use cases of python mutable default arguments,Programming Language,Python mutable default arguments
+899,fetch api in the browser example,Frontend,fetch API in the browser
+3426,how to learn mixture of experts,ML/AI,Mixture of Experts
+4647,real	world use cases of acid properties,Backend,ACID properties
+153,     can someone explain cron jobs with an example ,Backend,cron jobs
+5465,check  how does mysql slow queries work,Backend,MySQL slow queries
+5638,i    am  confused  about  named     entity   recognition   in     2026,ML/AI,named entity recognition
+5345,  how   does   rust   enums   and   pattern   matching   work    ,Programming Language,Rust enums and pattern matching
+4186,    how   does   two   factor   authentication   in   an   api   work       ,Backend,two factor authentication in an API
+698, best practices for useref hook,Frontend,useRef hook
+5365,pls how to scale heroku deployment in production  ,Backend,Heroku deployment
+779,bluetooth hacking inteerview questions  ,Cyber Security,Bluetooth hacking
+3496,   why   is   c++   lambda   expressions   important    ,Programming Language,C++ lambda expressions
+3009, give me a roadmap to master john the ripper,Cyber Security,John the Ripper
+2061,    why   is   topic   modeling   lda      important  ,ML/AI,topic modeling LDA
+1566,     idempotency   keys   interview   questions   for   my   college   project   see    ,Backend,idempotency keys
+5418, real world use cases of javascript  vs   ,Programming Language,JavaScript == vs ===
+1579,i  am   confused    about     speech  recognition     asap      source    ,ML/AI,speech recognition
+4586,mlops step by step guide ,ML/AI,MLOps
+1929,difference between spear  phishing and related concepts  source ,Cyber Security,spear phishing
+4711,how     to     write   python  decorators  correctly       ,Programming Language,Python decorators
+4121,can someone explain retrieval augmented generation with an example,ML/AI,retrieval augmented generation
+84,how  to  leaarn  aes     encryption  ,Cyber Security,AES encryption
+2813,quick  question notes on backend logging with elk  see ,Backend,backend logging with ELK
+5251,notesnbspon botnets for my college project,Cyber Security,botnets
+4766,bro     difference    between    hsts   and   related    concepts,Cyber Security,HSTS
+2330,hownbspto learn java garbaage collection  ,Programming Language,Java garbage collection
+738, real world use cases of softmax ,ML/AI,softmax
+1936,bro radix sort cheat sheet  ,DSA,radix sort
+2568,   hello  soc    2  audit  example,Cyber Security,SOC 2 audit
+2290,pls i am confused about attention mechanism     ,ML/AI,attention mechanism
+5027,  difference   between   siem   tools   and   related   concepts   ,Cyber Security,SIEM tools
+3297,   i   am   confused   about   social   engineering   in   short      ,Cyber Security,social engineering
+947,brute force attacks tutorial for beginners in hindi,Cyber Security,brute force attacks
+409,   urgent real world use cases of c++ templates,Programming Language,C++ templates
+5646,give    me  a  roadmap     to   master     javascript  prototypes     asap    see    ,Programming Language,JavaScript prototypes
+5022,hello can someone explain natural language processing with an example,ML/AI,natural language processing
+459, how does blue green deployment work,Backend,blue green deployment
+5596,why is custom react hooks important see ,Frontend,custom React hooks
+1080,can someone explain privilege escalation with an example ,Cyber Security,privilege escalation
+4079,best practices  for database deadlocks in short see ,Backend,database deadlocks
+384,how	to implement nuxtjs routing in my website ,Frontend,Nuxt.js routing
+951,bro i am confused about docker compose for services in 2026 ,Backend,docker compose for services
+6133,      i am confused about api throttling ,Backend,API throttling
+6503,explain qlearning for my college project,ML/AI,Q-learning
+4865, react native styling interview questions  ,Frontend,React Native styling
+100, best practices for deploying node app on ec2 with code,Backend,deploying Node app on EC2
+1048, best practices for toast  notifications ,Frontend,toast notifications
+3207,hi implement master theorem in python,DSA,master theorem
+1636,«please give me a roadmap to master oauth2 authorization code flow plz help»,Backend,OAuth2 authorization code flow
+4740,hi help me understand return oriented progrmming ,Cyber Security,return oriented programming
+6213,sir     how  does     backdropfilter   blur  work          source  ,Frontend,backdrop-filter blur
+666,best practices for css reset,Frontend,CSS reset
+5823,pls	travellign salesman problem step by step guide   ,DSA,travelling salesman problem
+2300,which library should i use for exploratory data analysis with code ,ML/AI,exploratory data analysis
+6155,how  does     typescript   interfaces     vs     types   work  ,Programming Language,TypeScript interfaces vs types
+800,best practices for a star  search  source ,DSA,A star search
+1635,quicknbspnbspquestion  best practices for c function pointers,Programming Language,C function pointers
+5977, connection timeout errors not working on the server,Backend,connection timeout errors
+4329, snort tutorial for bginners please     ,Cyber Security,Snort
+1466,notes on typescript type guards      ,Programming Language,TypeScript type guards
+2282,check  notes on  enums in programming languages with code,Programming Language,enums in programming languages
+1648,    setting up server sent events for my api for beginners  ,Backend,server sent events
+5352,	how to learn dbscan  ,ML/AI,DBSCAN
+4955,how to lern burp suite ,Cyber Security,Burp Suite
+5146,how  does travelling salesman problem work,DSA,travelling salesman problem
+5725, can someone explain overfitting with an example ,ML/AI,overfitting
+894,    how     to  learn    subset  generation  for    my   college    project,DSA,subset generation
+69,quik question how to implement react suspense in my website,Frontend,React Suspense
+635, ai agents gives poor accuracy how to improve   source ,ML/AI,AI agents
+3477, leetcode problems on kadanes algorithm ,DSA,Kadane's algorithm
+668,      notes on mysql slow queries,Backend,MySQL slow queries
+2349,cycle    detection   in    a     graph    example   ,DSA,cycle detection in a graph
+234, i am confused about circular linked list ,DSA,circular linked list
+5320,javascript event loop interview questions,Programming Language,JavaScript event loop
+73,can     someone    explain  merge     intervals  with    an  example,DSA,merge intervals
+4215,explain   acid     properties,Backend,ACID properties
+6179,i   am   confused    about   subarray  sum   equals   k,DSA,subarray sum equals k
+674,best practices for form validation in react please ,Frontend,form validation in React
+6218,centering  a div tutorial for beginners asap ,Frontend,centering a div
+2163,notes on  port scanning in 2026,Cyber Security,port scanning
+3464,help     me  understand     useref    hook    for     interview      prep,Frontend,useRef hook
+50, c delegates and eveents tutorial for beginners,Programming Language,C# delegates and events
+2548,how to learn mobile app security testing for a security career ,Cyber Security,mobile app security testing
+3947, data augmentation cheat  sheet for beginners ,ML/AI,data augmentation
+5406,   check         can   someone   explain   backdropfilter   blur   with   an   example    ,Frontend,backdrop-filter blur
+3964,how to learn python  multiple inheritance and mro,Programming Language,Python multiple inheritance and MRO
+2112,    hi   can   someone   explain   queue   using   stacks   with   an   example   for   my   college   project      source      ,DSA,queue using stacks
+2781, strructured  logging not working on the server    ,Backend,structured logging
+1790, give   me   a   roadmap   to   master   kafka   consumers   in   detail  ,Backend,Kafka consumers
+4170,check         lisp    macros  interview  questions     and   answers,Programming Language,Lisp macros
+141,cannbspsomoene explain nginx configuration with an example,Backend,nginx configuration
+5292,difference between owasp top 10 and related concepts,Cyber Security,OWASP Top 10
+522,check  pytorch training loop cheat sheet ,ML/AI,PyTorch training loop
+2305,dijkstras algorithm interview questions        ,DSA,Dijkstra's algorithm
+5496, memoization vs tabulation interview  qustions plz help,DSA,memoization vs tabulation
+134,      how to scale gunicorn workers in production,Backend,gunicorn workers
+3670,please zindex stacking context not  worikng properly,Frontend,z-index stacking context
+1062,how to build  a clean ui with dark mode toggle    ,Frontend,dark mode toggle
+5774,check  help me understand tree shaking,Frontend,tree shaking
+214,   pass by value vs pass by reference tutorial for beginners,Programming Language,pass by value vs pass by reference
+5074,      why is celery background jobs important with code ,Backend,Celery background jobs
+114,    real world use cases of prefix sum,DSA,prefix sum
+467,i am confused abot cve and cvss scoring,Cyber Security,CVE and CVSS scoring
+4759,explain java inner  classes,Programming Language,Java inner classes
+2309,    can someone explain ransomware with an exapmle,Cyber Security,ransomware
+1076,       react   router   step   by   step   guide  ,Frontend,React Router
+5278,pls red black tree cheat sheet ,DSA,red black tree
+2503,i am confused about cross validation thaks,ML/AI,cross validation
+2567,  notes   on   html   forms   and   input   types    ,Frontend,HTML forms and input types
+2518,common mistakes with kali linux tools ,Cyber Security,Kali Linux tools
+402, how to learn javascript  vs  ,Programming Language,JavaScript == vs ===
+5578, difference between adam optimizer and related concepts with code ,ML/AI,Adam optimizer
+6485,hi   nbsp    can    someone  explain  rust    borrow   checker  with   an    example,Programming Language,Rust borrow checker
+245,pls why is model quantization important,ML/AI,model quantization
+1792,check   model quantization gives poor accuracy how to improve  ,ML/AI,model quantization
+5592,check  help me understand svm kernels thanks ,ML/AI,SVM kernels
+4070,common   errors    with   java  equals   and     hashcode     plz   help   see  ,Programming Language,Java equals and hashCode
+3441,sir common mistakes with mobile app security testing ,Cyber Security,mobile app security testing
+3174, how to learrn deploying node app on ec2 ,Backend,deploying Node app on EC2
+4870, horizontal scaling cheat sheet in 2026 ,Backend,horizontal scaling
+1229,    bias   and   fairness   in   ai   tutorial   for   beginners      source       ,ML/AI,bias and fairness in AI
+3235,explain onnx export for my college project,ML/AI,ONNX export
+443, meta viewport tag tutorial for beginners,Frontend,meta viewport tag
+5551,broken nbsp authentication cheat sheet,Cyber Security,broken authentication
+3974, data breach response step by step guide ,Cyber Security,data breach response
+5501,why   is    floyd   cycle   detection    important  ,DSA,Floyd cycle detection
+2575,difference nbsp  between  javascript  vs  and related concepts,Programming Language,JavaScript == vs ===
+1470,common errors with manual memory management ,Programming Language,manual memory management
+4339,  check  haskell monads step by step guide,Programming Language,Haskell monads
+4981, need help difference between oauth2 authorization code flow and related concepts for my college project  source ,Backend,OAuth2 authorization code flow
+1531,check       notes       on  polymorphism,Programming Language,polymorphism
+2435,what is media queries in short,Frontend,media queries
+3131,        bloom filer step by step guide see ,DSA,bloom filter
+5228,	database indexing tutorial for beginners ,Backend,database indexing
+4892,jwtnbspnbspauthentication tutorial for beginners ,Backend,JWT authentication
+3853,  check         next   greater   element   example ,DSA,next greater element
+6107,urgent what is bem naming convention    ,Frontend,BEM naming convention
+3259,help me understand cloud security  misconfigurations     ,Cyber Security,cloud security misconfigurations
+6062, please difference between rotating an array and related concepts,DSA,rotating an array
+2052, notes on trapping rain water ,DSA,trapping rain water
+3307,explain	hallucination in llms please   ,ML/AI,hallucination in LLMs
+4494,  how to implement database transactions in a backend service,Backend,database transactions
+5743,rust     ownership    interview   questions  and     answers,Programming Language,Rust ownership
+2474,can  someone     explain     btree   with  an   example,DSA,B-tree
+2153,  «data   loss   prevention   interview   questions»  ,Cyber Security,data loss prevention
+4063, go   defer   statement   explained   in   simple   words   thanks         see    ,Programming Language,Go defer statement
+2553,       urgent   how   to   learn   operator   precedence       ,Programming Language,operator precedence
+1897, can someone explain rust result and option with an example,Programming Language,Rust Result and Option
+1899,nestjs	modules not working on the server,Backend,NestJS modules
+31,why is batch size and epochs important   source ,ML/AI,batch size and epochs
+1923,    floyd   warshall   example   for   interview   prep         source     ,DSA,Floyd Warshall
+2717, help me understand semantic search with embeddings,ML/AI,semantic search with embeddings
+4520, explain jwt vulnerabilities,Cyber Security,JWT vulnerabilities
+2078,etag headers interview  questions,Backend,ETag headers
+6397, static site generation step by step guide  see ,Frontend,static site generation
+3312, best practices for rabbitmq message queues  ,Backend,RabbitMQ message queues
+5468,what is radix sort see ,DSA,radix sort
+1959,owasp  top 10 tutorial for beginners for beginners,Cyber Security,OWASP Top 10
+1933, http security headers example   ,Cyber Security,HTTP security headers
+3650,real   world    use   cases    of  many     to    many   relationships  for    beginners     ,Backend,many to many relationships
+2007,sandboxnbspnbspanalysis interview questions ,Cyber Security,sandbox analysis
+5398,real world use cases of css keyframes  see ,Frontend,CSS keyframes
+3982,  multi   factor   authentication   step   by   step   guide  ,Cyber Security,multi factor authentication
+6112, garbage collection in languages cheat sheet   ,Programming Language,garbage collection in languages
+789,notes on soc 2 audit,Cyber Security,SOC 2 audit
+1054, common mistakes with csrf attacks in short  ,Cyber Security,CSRF attacks
+3540,explain    microservices     architecture  ,Backend,microservices architecture
+5993,need help what  is overfitting,ML/AI,overfitting
+6197,  best practices for matlab vectorization ,Programming Language,MATLAB vectorization
+731,common     mistakes    with     backdropfilter  blur             ,Frontend,backdrop-filter blur
+3687,   merge  sort     explained  in     simple     words           ,DSA,merge sort
+1677,please help me understand custom react hooks for beginners  ,Frontend,custom React hooks
+5044,best practices for xxe injecion,Cyber Security,XXE injection
+3107,how to implement eslint rules for react in my website,Frontend,ESLint rules for React
+1656, bro difference between stored procedures and related concepts  source ,Backend,stored procedures
+3362,notesnbspon   monotonic   stack,DSA,monotonic stack
+4050,how	to scale database migrations in production  ,Backend,database migrations
+3171,    need help how to write python list comprehension correctly,Programming Language,Python list comprehension
+273,   vite hot module replacement not working properly ,Frontend,Vite hot module replacement
+216,bitnbspmanipulation cheat sheet,DSA,bit manipulation
+5658,«time complexity of serialize and deserialize a tree»     ,DSA,serialize and deserialize a tree
+1942,leetcode problems on  word ladder,DSA,word ladder
+6312,quick  question   common  mistakes      with    api    versioning,Backend,API versioning
+1449,what is java string immutability ,Programming Language,Java String immutability
+4218,what    is   kotlin   coroutines     for    interview    prep,Programming Language,Kotlin coroutines
+786,sir    notes     on     buffer   overflow     ,Cyber Security,buffer overflow
+3208, learning rate scheduling from scratch in python ,ML/AI,learning rate scheduling
+116,pls     debug    core   web  vitals   issue     in  chrome   ,Frontend,Core Web Vitals
+4426,   laravel  migrations  tutorial     for     beginners    ,Backend,Laravel migrations
+4367,which library should i use for transformers see ,ML/AI,transformers
+5181,check  settig up reverse proxy for my api in short     ,Backend,reverse proxy
+766,how does http status  codes work  ,Backend,HTTP status codes
+1011,what is soft delete,Backend,soft delete
+918,what is java  equalls and hashcode,Programming Language,Java equals and hashCode
+1127,maximum subarray interview questions  ,DSA,maximum subarray
+1322,    how   to   learn   lstm ,ML/AI,LSTM
+2363,why  is space complexity important,DSA,space complexity
+650,diffusion  models   tutorial  for    beginners,ML/AI,diffusion models
+2720,   please   notes   on   unit   testing   api   endpoints          ,Backend,unit testing API endpoints
+2580,difference between automl and related concepts,ML/AI,AutoML
+3994,monotonic stack example,DSA,monotonic stack
+890,how to learn packet sniffing for a security career for my college project ,Cyber Security,packet sniffing
+4033,urgent    which     library    shuld    i  use   for     data  augmentation,ML/AI,data augmentation
+4911,need help why is gpt models important for my college project  source ,ML/AI,GPT models
+5138,ids	vs ips explained in simple words,Cyber Security,IDS vs IPS
+4058,    how   to   defend   against   nmap   scanning      ,Cyber Security,Nmap scanning
+5428, hey why is vector databases and embeddings important thanks,ML/AI,vector databases and embeddings
+75, api   versioning   example    ,Backend,API versioning
+379,leetcode problems on balanced binary tree check for my college project,DSA,balanced binary tree check
+2642,whatnbspis css pseudo elements ,Frontend,CSS pseudo elements
+3112,hello how does nodejs event loop  work,Backend,Node.js event loop
+140,hello  best practices for steganography see ,Cyber Security,steganography
+2679,how to learn prisma schema ,Backend,Prisma schema
+1204,best practices for microservices architecture  ,Backend,microservices architecture
+1192,quick question give me a roadmap to master http2 and http3 in short ,Backend,HTTP/2 and HTTP/3
+1989,  race   nbsp      condition   exploits   in   ethical   hacking   ,Cyber Security,race condition exploits
+4796,help me understand policy gradient methods ,ML/AI,policy gradient methods
+5122,i am confused about python  list comprehension ,Programming Language,Python list comprehension
+619,hi	space and time analysis of min heap vs max heap ,DSA,min heap vs max heap
+473,need  help  javascript   event  loop   step     by      step     guide   in  detail    ,Programming Language,JavaScript event loop
+1523,best	practices for named entity recognition,ML/AI,named entity recognition
+3796,    i   am   confused   about   multipart   form   data   please ,Backend,multipart form data
+3550,  my   div   wont   center   vertically   no   matter   what   i   try      source      ,Frontend,handwritten
+3147,java records cheat sheet for interview prep,Programming Language,Java records
+371,how	to apply learning rate scheduling on my dataset in detail,ML/AI,learning rate scheduling
+3124, best practices for cloud security misconfigurations plz help,Cyber Security,cloud security misconfigurations
+2896, pls laravel migrations cheat sheet ,Backend,Laravel migrations
+272,pls	common mistakes with objectfit property   source ,Frontend,object-fit property
+5212, help me understand java geenerics,Programming Language,Java generics
+5636,sir	best practices for decision trees  source ,ML/AI,decision trees
+1593,why  is gradient boosting important,ML/AI,gradient boosting
+1974,   ssl   termination   interview   questions     ,Backend,SSL termination
+4958, common mistakes with java records,Programming Language,Java records
+623,check  best way to prepare dsa for placements       ,DSA,handwritten
+5662,debug bem namng convention issue in chrome ,Frontend,BEM naming convention
+3919,how    to  aply    hierarchical     clustering     on     my    dataset     ,ML/AI,hierarchical clustering
+5260,     how to write immutability correctly,Programming Language,immutability
+3066,need help can someone explain lazy loading images with an example,Frontend,lazy loading images
+1727, time complexity of diameter of binary tree  see ,DSA,diameter of binary tree
+5898, quick question  common mistakes with api keys,Backend,API keys
+5397,        why is feature scaling important ,ML/AI,feature scaling
+2094,debug css reset issue in chrome with code ,Frontend,CSS reset
+82,      how to implement bem naming convention in my website,Frontend,BEM naming convention
+499, what is connection timeout  errors,Backend,connection timeout errors
+2880,what is pass by value vs pass by reference   ,Programming Language,pass by value vs pass by reference
+6185,please can someone explain database indexing with an example,Backend,database indexing
+2539,i am confused about bem naming convention,Frontend,BEM naming convention
+6017,social	engineering step by step guide,Cyber Security,social engineering
+1694,     i am confused about python metaclasses,Programming Language,Python metaclasses
+5363,    «need  help     cors     error    in   browser   console   explained    in     simple  words»,Frontend,CORS error in browser console
+2823,help me understand hydration errors in nextjs ,Frontend,hydration errors in Next.js
+1949,php    namespaces    explained     in   simple     words,Programming Language,PHP namespaces
+6124,   sir what  is oauth2 authorization code flow see ,Backend,OAuth2 authorization code flow
+4423,how to apply natural language processing on my dataset in hindi  ,ML/AI,natural language processing
+3468,real world use cases of dijkstras algorithm,DSA,Dijkstra's algorithm
+4507,real world use cases of clickjacking,Cyber Security,clickjacking
+5370,how  to  learn  lightgbm         ,ML/AI,LightGBM
+2626,       flask bueprints step by step guide,Backend,Flask blueprints
+1151, best practices for server sent events asap   ,Backend,server sent events
+749,     common  mistakes with decision trees,ML/AI,decision trees
+4755,    how to learn dijkstras algorithm,DSA,Dijkstra's algorithm
+4848,need help kotlin null safety exaample,Programming Language,Kotlin null safety
