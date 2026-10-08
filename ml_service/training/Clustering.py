@@ -14,8 +14,7 @@ def text_preprocessing(text):
 
 def retrain(new_querry=""):
     
-    df = pd.read_csv(r"C:\Users\kumar\OneDrive\Desktop\task_4_DoubtHub\ml_service\data\Clustering_data.csv")
-    # df = pd.read_csv(data_path)              
+    df = pd.read_csv("data\Clustering_data.csv")             
     df["mixed"] = df["query"]+" "+df['label']+" "+df['topic']
 
     # preprocess the new query
